@@ -11,7 +11,7 @@
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/pratyush._._._.jha/?hl=en)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/pratyush.jha.1044/)
 
-### Languages, Frameworks and Tools:
+### Languages and Tools:
 <div display="flex">
   <img src="https://img.shields.io/badge/C++%20-%231572B6.svg?&style=for-the-badge&logo=-C++-&logoColor=white">
   <img src="https://img.shields.io/badge/java%20-%23F05033.svg?&style=for-the-badge&logo=java&logoColor=white">

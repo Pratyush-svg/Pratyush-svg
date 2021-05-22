@@ -7,8 +7,7 @@
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
 ## Connect with me:
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://www.google.com/search?q=twitter+blue+icon&rlz=1C1OPNX_enIN949IN949&sxsrf=ALeKk031ERI6y_l3Msvdt4Pu2LUudAS_Ww:1621698773833&tbm=isch&source=iu&ictx=1&fir=vWR7-MXcXmxcLM%252CqKG4vHX0Uc81JM%252C_&vet=1&usg=AI4_-kTxnhIo83LVP_MrRCcuCaWpHBaJyA&sa=X&ved=2ahUKEwiw3eLa0t3wAhXp8HMBHVhCByIQ9QF6BAgSEAE&biw=1535&bih=762#imgrc=vWR7-MXcXmxcLM" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
-[twitter]: https://twitter.com/pratyush___jha?s=08
-[linkedin]: https://www.linkedin.com/in/pratyush-jha-58ab291a5/
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/pratyush___jha?s=08)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/pratyush-jha-58ab291a5/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/pratyush._._._.jha/?hl=en)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/pratyush.jha.1044/)

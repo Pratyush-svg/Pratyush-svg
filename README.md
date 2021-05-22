@@ -1,8 +1,10 @@
 ### Hi Pratyush here 👋
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-
+## Find me around the web 🌎: <a href="https://github.com/Pratyush-svg"><img align="left" width="170" height="180" src="https://raw.githubusercontent.com/kanishk7559/kanishk7559/master/smallpic.png"></a>
+-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-e62786?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/kanishkjamgaonkar/)](https://www.instagram.com/pratyush._._._.jha/?hl=en)
+-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-gray?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/kanishk7559/)](https://twitter.com/pratyush___jha?s=08)
+-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kanishkjamgaonkar/)](linkedin.com/in/pratyush-jha-58ab291a5/)
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)

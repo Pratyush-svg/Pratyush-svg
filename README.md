@@ -1,5 +1,4 @@
 ### Hi, I'm Pratyush <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-## Your short description
 - 🔭 I’m currently a second year engineering student at MIT-WPU
 - 🌱  Strong administrative professional with a Bachelor of Technology - BTech focused in Computer Science from MIT World Peace University.
 - 👯 I’m interested in Artificial Intelligence, Machine Learning and Data Science
